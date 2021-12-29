@@ -1,5 +1,7 @@
 package com.wns.pages;
 
+/*Money corp US English page, page locators and supporting methods*/
+
 import java.util.List;
 
 import org.openqa.selenium.By;

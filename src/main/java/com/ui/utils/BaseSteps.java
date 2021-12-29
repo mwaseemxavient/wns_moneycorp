@@ -1,5 +1,5 @@
 package com.ui.utils;
-
+/* BaseStes class contains basic reusable common methods that can be used by the team*/
 import java.awt.AWTException;
 import java.awt.Robot;
 import java.awt.event.KeyEvent;

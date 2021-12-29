@@ -1,5 +1,5 @@
 package com.wns.pages;
-
+/*Money corp home page , page locators and supporting methods*/
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;

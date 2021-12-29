@@ -1,5 +1,5 @@
 package com.ui.utils;
-
+/*This class have methods for screenshot*/
 import java.io.File;
 import java.io.IOException;
 import java.text.DateFormat;

@@ -1,4 +1,5 @@
 package com.ui.utils;
+/* WebdriverSession classe to create session for driver*/
 
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
